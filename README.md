@@ -1,4 +1,4 @@
-<a href="https://imsalione.ir" traget="blank">
+<a href="https://imsalione.ir" traget="_blank">
   <p align="center">
     <img src="https://imsalione.ir/wp-content/uploads/2024/08/Cover-2-1920x2673.png" alt="imsalione" />
   </p>
