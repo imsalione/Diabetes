@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imsalione.ir/wp-content/uploads/2024/08/Cover.png" alt="imsalione" />
+  <img src="https://imsalione.ir/wp-content/uploads/2024/08/Cover-2-1920x2673.png" alt="imsalione" />
 </p>
 
 
