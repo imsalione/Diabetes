@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://imsalione.ir/wp-content/uploads/2024/08/Cover-2-1920x2673.png" alt="imsalione" />
-</p>
-
+<a href="https://imsalione.ir" trarget:"_blank">
+  <p align="center">
+    <img src="https://imsalione.ir/wp-content/uploads/2024/08/Cover-2-1920x2673.png" alt="imsalione" />
+  </p>
+</a>
 
 ### بیان مسأله:
 دیابت یکی از شایع‌ترین بیماری‌ها در دنیاست که هر ساله بر زندگی میلیون‌ها نفر تأثیر می‌گذارد و بار مالی قابل توجهی را بر اقتصاد کشورها به دنبال دارد. دیابت یک بیماری مزمن و پیش‌رونده است که در آن افراد قابلیت تنظیم سطح قند خون را به خوبی از دست می‌دهند. این وضعیت در نهایت منجر به کاهش کیفیت زندگی و کاهش امید به زندگی می‌شود.  
