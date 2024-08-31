@@ -1,6 +1,6 @@
 <a href="https://imsalione.ir" traget="_blank">
   <p align="center">
-    <img src="https://imsalione.ir/wp-content/uploads/2024/08/Cover.png" alt="imsalione" />
+    <img src="https://imsalione.ir/wp-content/uploads/2024/08/Cover-1-1920x2716.png" alt="imsalione" />
   </p>
 </a>
 
